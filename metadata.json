@@ -1,0 +1,6 @@
+{
+  "name": "Cooking Manual",
+  "description": "Interactive culinary guide, fundamental cooking techniques, ratio calculators, food safety & temperature charts, hands-free step assistant, and AI Chef assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
